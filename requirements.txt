@@ -1,0 +1,4 @@
+plolty_express
+numpy
+pandas
+streamlit
